@@ -30,7 +30,7 @@ class ClienteDialog(QDialog):
                 "focus": "#ef4444",
                 "header_bg": "#ffecec"
             },
-            "Colore Secundario": {
+            "Color Secundario": {
                 "bg": "#f6f5ff",
                 "card": "#ffffff",
                 "primary": "rgb(147, 51, 234)",            # morado
